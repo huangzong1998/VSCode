@@ -1,0 +1,2 @@
+# VSCode
+A WordPress Theme
